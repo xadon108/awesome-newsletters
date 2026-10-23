@@ -171,6 +171,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 - [The Rundown AI](https://www.therundown.ai?utm_source=newsletter.surf) - [review](https://newsletter.surf/newsletter/the-rundown-ai) - Get smarter on AI in about five minutes.
 - [There's An AI For That](https://theresanaiforthat.com?utm_source=newsletter.surf) - [review](https://newsletter.surf/newsletter/there-s-an-ai-for-that) - The newest AI tools, before they flood your timeline.
 - [TLDR AI](https://tldr.tech/ai?utm_source=newsletter.surf) - [review](https://newsletter.surf/newsletter/tldr-ai) - The TLDR treatment, just for artificial intelligence.
+- [Unredacted AI](https://unredactedai.com?utm_source=newsletter.surf) - Buried AI and tech news, told as short weekly rabbit-hole stories.
 
 ## Culture & Society
 
